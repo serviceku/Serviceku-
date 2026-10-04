@@ -1,0 +1,6 @@
+{
+  "name": "Serviceku - Jasa Service Elektronik & Pendingin",
+  "description": "Layanan perbaikan dan service elektronik profesional bergaransi: AC, Kulkas, Mesin Cuci, Showcase, Freezer Box, dan Dispenser di Indramayu, Cirebon, Majalengka. Hubungi WA: 0878-7441-7978.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
